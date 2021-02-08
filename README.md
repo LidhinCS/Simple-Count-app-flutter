@@ -1,4 +1,4 @@
-# flutter_sample
+# simple counting app using flutter
 
 A new Flutter project.
 
